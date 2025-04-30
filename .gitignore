@@ -39,3 +39,6 @@ repairnator/repairnator-pipeline/output_astor
 
 .DS_Store
 treatedbuild.json
+
+#hide .env
+.env
